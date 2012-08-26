@@ -1,0 +1,12 @@
+" フォントに関連する設定
+set guifont=MS_Gothic:h10.5:cSHIFTJIS
+" カーソル行の表示を有効化
+set cursorline
+" ルーラーを表示
+set ruler
+" カラーテーマをTAKEDAに設定
+colorscheme takeda
+" ツールバーの表示を無効化
+set guioptions-=T
+
+
